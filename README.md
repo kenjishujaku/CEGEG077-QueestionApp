@@ -16,3 +16,5 @@
     This form is for creating questions of Quiz App. Each enrty must be filled in and if there is non-sense input, the upload will not be carried out. If the upload button is pushed, the data in the form will be sent to a database and "Upload Has Completed" message will be displayed.
    
    <h3>*Menu in a side bar does not have any functions</h3>
+   
+   ![image](https://user-images.githubusercontent.com/39371515/40588212-d129fa10-61d1-11e8-8ef5-718affef6f91.png)
